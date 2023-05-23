@@ -1,4 +1,4 @@
-name: 'rocm-setup'
+name: 'rocm-setup-test'
 description: 'Setup AMD ROCm™ Platform for GPUs'
 inputs:
   rocm:
